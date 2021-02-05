@@ -5,7 +5,7 @@ on:
       - '*' # all branches
       - '!main' # exclude main branch
       - '!master' # exclude main branch
-
+{% raw %}
 jobs:
   changelog:
     name: Changelog
@@ -28,4 +28,4 @@ jobs:
         with:
           next_version: "${{ steps.gitversion.outputs.majorMinorPatch }}"
       - name: Commit Changelog
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v4{% endraw %}

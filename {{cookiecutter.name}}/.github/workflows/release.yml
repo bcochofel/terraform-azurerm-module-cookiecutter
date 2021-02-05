@@ -4,7 +4,7 @@ on:
     branches:
       - main
       - master
-
+{% raw %}
 jobs:
   release:
     name: Release
@@ -32,4 +32,4 @@ jobs:
           body: |
             [CHANGELOG](./CHANGELOG.md)
           draft: false
-          prerelease: false
+          prerelease: false{% endraw %}
