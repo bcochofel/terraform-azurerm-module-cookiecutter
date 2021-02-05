@@ -1,0 +1,7 @@
+{
+    "name": "terraform-azurerm-name",
+    "description": "Brief description of the module",
+    "author": "Bruno Cochofel",
+    "username": "bcochofel",
+    "email": "bruno.cochofel@gmail.com"
+}
