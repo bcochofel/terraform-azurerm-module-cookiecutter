@@ -1,3 +1,4 @@
+{% raw %}
 {{ if .Versions -}}
 <a name="unreleased"></a>
 ## [Unreleased]
@@ -53,4 +54,4 @@
 [{{ .Tag.Name }}]: {{ $.Info.RepositoryURL }}/compare/{{ .Tag.Previous.Name }}...{{ .Tag.Name }}
 {{ end -}}
 {{ end -}}
-{{ end -}}
+{{ end -}}{% endraw %}
