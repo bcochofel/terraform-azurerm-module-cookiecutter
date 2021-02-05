@@ -5,6 +5,7 @@
 <a name="0.1.3"></a>
 ## [0.1.3] - 2021-02-05
 ### Fix
+- gitversion template
 - changelog template
 
 
