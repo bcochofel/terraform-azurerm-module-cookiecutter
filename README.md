@@ -1,13 +1,13 @@
-# terraform-module-cookiecutter
+# terraform-azurerm-module-cookiecutter
 
 [![pre-commit badge][pre-commit-badge]][pre-commit] [![Conventional commits badge][conventional-commits-badge]][conventional-commits] [![Keep a Changelog v1.1.0 badge][keep-a-changelog-badge]][keep-a-changelog] [![MIT License Badge][license-badge]][license]
 
 # Usage
 
-Use this repository to create a Terraform module.
+Use this repository to create a Terraform module for AzureRM.
 The `name` should be:
 
-`terraform-azurerm-<name>`
+`terraform-azurerm-<resource>`
 
 ```bash
 pip install cookiecutter
