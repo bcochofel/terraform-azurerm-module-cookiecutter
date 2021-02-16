@@ -12,13 +12,10 @@ The `name` should be:
 ```bash
 pip install cookiecutter
 cookiecutter gh:bcochofel/terraform-azurerm-module-cookiecutter
-
-# configure pre-commit and execute
-pre-commit install
-
-# needs https://github.com/git-chglog/git-chglog
-git-chglog --init
 ```
+
+This repository initializes git and pre-commit using post hook.
+Check [here](hooks/post_gen_project.sh) for more info.
 
 ## pre-commit hooks
 
