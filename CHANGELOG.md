@@ -4,6 +4,9 @@
 
 <a name="0.1.8"></a>
 ## [0.1.8] - 2021-02-16
+### Docs
+- update docs
+
 ### Fix
 - main.tf without versions
 
