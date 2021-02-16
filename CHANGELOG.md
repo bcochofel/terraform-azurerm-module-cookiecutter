@@ -2,10 +2,19 @@
 ## [Unreleased]
 
 
+<a name="0.1.6"></a>
+## [0.1.6] - 2021-02-16
+### Feat
+- post hook
+
+
 <a name="0.1.5"></a>
 ## [0.1.5] - 2021-02-07
 ### Docs
 - update
+
+### Pull Requests
+- Merge pull request [#5](https://github.com/bcochofel/terraform-azurerm-module-cookiecutter/issues/5) from bcochofel:docs_update
 
 
 <a name="0.1.4"></a>
@@ -51,7 +60,8 @@
 <a name="0.1.0"></a>
 ## 0.1.0 - 2021-02-05
 
-[Unreleased]: https://github.com/bcochofel/terraform-azurerm-module-cookiecutter/compare/0.1.5...HEAD
+[Unreleased]: https://github.com/bcochofel/terraform-azurerm-module-cookiecutter/compare/0.1.6...HEAD
+[0.1.6]: https://github.com/bcochofel/terraform-azurerm-module-cookiecutter/compare/0.1.5...0.1.6
 [0.1.5]: https://github.com/bcochofel/terraform-azurerm-module-cookiecutter/compare/0.1.4...0.1.5
 [0.1.4]: https://github.com/bcochofel/terraform-azurerm-module-cookiecutter/compare/0.1.3...0.1.4
 [0.1.3]: https://github.com/bcochofel/terraform-azurerm-module-cookiecutter/compare/0.1.2...0.1.3
