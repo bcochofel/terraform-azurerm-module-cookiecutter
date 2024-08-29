@@ -1,6 +1,6 @@
 # pre-commit hooks
 
-GIT hooks are implemented using [`pre-commit`](https://pre-commit.com/).
+Git hooks are implemented using [`pre-commit`](https://pre-commit.com/).
 
 To install `pre-commit` follow [this](https://pre-commit.com/#install) guide.
 
@@ -24,11 +24,3 @@ pre-commit run --all-files
 ```
 
 for more options check `pre-commit` [documentation](https://pre-commit.com/#advanced)
-
-**NOTE:** to run the hooks you should have installed the following tools:
-* [`terraform`](https://www.terraform.io/downloads.html)
-* [`terragrunt`](https://terragrunt.gruntwork.io/docs/getting-started/install/)
-* [`tflint`](https://github.com/terraform-linters/tflint) and
-* [`terraform-docs`](https://github.com/terraform-docs/terraform-docs) installed locally.
-* [`goimports`](https://pkg.go.dev/golang.org/x/tools/cmd/goimports)
-* [`golint`](https://pkg.go.dev/golang.org/x/lint/golint)

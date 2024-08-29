@@ -21,10 +21,6 @@ Check [here](hooks/post_gen_project.sh) for more info.
 
 Read the [pre-commit hooks](docs/pre-commit-hooks.md) document for more info.
 
-## git-chglog
-
-Read the [git-chglog](docs/git-chlog.md) document for more info.
-
 [pre-commit]: https://github.com/pre-commit/pre-commit
 [pre-commit-badge]: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white
 [conventional-commits-badge]: https://img.shields.io/badge/Conventional%20Commits-1.0.0-green.svg
