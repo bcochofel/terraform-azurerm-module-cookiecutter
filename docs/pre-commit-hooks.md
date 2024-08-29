@@ -30,3 +30,5 @@ for more options check `pre-commit` [documentation](https://pre-commit.com/#adva
 * [`terragrunt`](https://terragrunt.gruntwork.io/docs/getting-started/install/)
 * [`tflint`](https://github.com/terraform-linters/tflint) and
 * [`terraform-docs`](https://github.com/terraform-docs/terraform-docs) installed locally.
+* [`goimports`](https://pkg.go.dev/golang.org/x/tools/cmd/goimports)
+* [`golint`](https://pkg.go.dev/golang.org/x/lint/golint)
