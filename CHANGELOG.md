@@ -1,3 +1,14 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [0.2.0](https://github.com/bcochofel/terraform-azurerm-module-cookiecutter/compare/0.1.9...0.2.0) (2024-08-29)
+
+### Features
+
+* GitHub Workflows with dependabot and semantic-release ([407fb6f](https://github.com/bcochofel/terraform-azurerm-module-cookiecutter/commit/407fb6fe0d0934a1896295c63e0b2e5971af730d))
+
 <a name="unreleased"></a>
 ## [Unreleased]
 
